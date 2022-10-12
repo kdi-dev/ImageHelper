@@ -25,7 +25,7 @@ A collection of extensions for handling image creation from colors and gradients
     s.ios.deployment_target = "8.4"
     s.tvos.deployment_target = "9.0"
 
-    s.xcconfig = { 'SWIFT_VERSION' => '3.0' }
+    s.xcconfig = { 'SWIFT_VERSION' => '5.0' }
 
     s.source_files = "Sources/**/*.{h,swift}"
 
